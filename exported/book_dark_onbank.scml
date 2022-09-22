@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="book_dark_onbank">
+        <file id="0" name="book_dark_onbank/book_dark_onbank.png" width="256" height="256" pivot_x="0.433852" pivot_y="0.620623"/>
+    </folder>
+    <entity id="0" name="book_dark_onbank">
+        <animation id="0" name="idle" length="400">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="book_dark_onbank" folder="0" file="0" abs_x="2.066148" abs_y="-23.120623" abs_pivot_x="0.433852" abs_pivot_y="0.620623" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+                <key id="1" time="116">
+                    <object_ref id="0" timeline="0" key="1" z_index="0"/>
+                </key>
+                <key id="2" time="191">
+                    <object_ref id="0" timeline="0" key="2" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="book_dark_onbank">
+                <key id="0" spin="0">
+                    <object folder="0" file="0" x="2.066148" y="-23.120623" pivot_x="0.433852" pivot_y="0.620623" angle="0"/>
+                </key>
+                <key id="1" time="116" spin="0">
+                    <object folder="0" file="0" x="2.066148" y="-23.120623" pivot_x="0.433852" pivot_y="0.620623" angle="0"/>
+                </key>
+                <key id="2" time="191" spin="0">
+                    <object folder="0" file="0" x="1.066148" y="-18.101168" pivot_x="0.433852" pivot_y="0.601168" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>

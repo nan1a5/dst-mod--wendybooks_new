@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="book_season">
+        <file id="0" name="book_season/book_season_112x112.png" width="112" height="112" pivot_x="0" pivot_y="1"/>
+        <file id="1" name="book_season/book_season.png" width="112" height="112" pivot_x="0.429204" pivot_y="0.252212"/>
+    </folder>
+    <entity id="0" name="book_season">
+        <animation id="0" name="idle" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="book_season" folder="0" file="1" abs_x="2.070796" abs_y="-13.752212" abs_pivot_x="0.429204" abs_pivot_y="0.252212" abs_angle="360" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="book_season">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="2.070796" y="-13.752212"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
